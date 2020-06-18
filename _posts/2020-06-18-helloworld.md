@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Hello World!
-categories: [HTML,Code]
+categories: [HELLO WORLD!]
 excerpt: Hi Guys, I'm student of SMK Telkom Malang from Tulungagung, and living in Malang. I made this blog for documentation about my journey, running on jekyll, hosting on github pages and using riverie theme with my little modification.
 ---
 
