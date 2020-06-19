@@ -16,6 +16,6 @@ git clone https://github.com/gagassurya19/java.git
 ```
 
 #### Preview
-![tokobuku]()
+![tokobuku](https://github.com/gagassurya19/gagassurya19.github.io/blob/master/_posts/image/java.png?raw=true)
 
 Thank you
