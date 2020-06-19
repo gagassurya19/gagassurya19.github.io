@@ -5,8 +5,7 @@ categories: [Coding, Java]
 excerpt: JAVA 28RPL_MOKLET 7 Juli 2019
 ---
 
-JAVA 28RPL_MOKLET 7 Juli 2019
-Kumpulan project sekolah bahasa Java.
+JAVA 28RPL_MOKLET 7 Juli 2019 | Kumpulan project sekolah bahasa Java.
 
 Project ini diberikan dan saya kerjakan saat kelas 10 dan berakhir pada kenaikan semester 2. Kemudian berlanjut kemateri web dev. 
 
