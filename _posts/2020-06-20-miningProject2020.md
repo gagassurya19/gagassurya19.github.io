@@ -14,7 +14,5 @@ Download :
 
 ## #2 Driver GPU/VGA
 
-|VGA/GPU               | Qty               | Driver              |
-|--------------------- | --------------------- | ---------------------|
-|Sapphire RX580/8GB | 6           | [Soon]()|
-|Aorus RX580/8GB | 6 | [Soon]()|
+| Sapphire RX580/8GB | 6 | [Soon]() |
+| Aorus RX580/8GB | 6 | [Soon]() |
