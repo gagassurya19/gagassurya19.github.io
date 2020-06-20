@@ -17,3 +17,11 @@ Download :
 |--------------------- | --------------------- | --------------------- | 
 |Sapphire RX580/8GB    | 6                     | [Soon]()              |
 |Aorus RX580/8GB       | 6                     | [Soon]()              |
+
+
+|Title 1               | Title 2               | Title 3               | Title 4              |
+|--------------------- | --------------------- | --------------------- | ---------------------|
+|lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit|
+|lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
+|lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
+|lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
