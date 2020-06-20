@@ -13,6 +13,7 @@ Download :
 [BalenaEtcher_MAC](https://www.balena.io/etcher/)
 
 ## #2 Driver GPU/VGA
-| VGA/GPU               | Qty   | Driver    |
-| Sapphire RX580/8GB    | 6     | [Soon]()  |
-| Aorus RX580/8GB       | 6     | [Soon]()  |
+|VGA/GPU               | Qty                   | Driver                |
+|--------------------- | --------------------- | --------------------- | 
+|Sapphire RX580/8GB    | 6                     | [Soon]()              |
+|Aorus RX580/8GB       | 6                     | [Soon]()              |
