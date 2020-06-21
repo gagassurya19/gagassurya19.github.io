@@ -21,7 +21,7 @@ Download :
 
 > Last used : 
 
-## #3 WINDOWS 10 REGISTRY TWEAKS FOR MINING
+## #3 WINDOWS10 TWEAKS FOR MINING
 - While windows is installed disable the following services: click to enlarge image
 - Once windows is full installed and booted for the first time i always run the Windows 10 Registry tweaks for mining.bat file [Download](https://mega.nz/#!8gZzjQaa!Dt4wE0WEo8nZkui_-cAAXL4mb4YlO6CJgFZTXKq9pnQ) (i am not disabling everything, just things that i think wont be needed, windows update, cortana, crash reports etc..)
 - Back Up Your Registry or create a restore point
